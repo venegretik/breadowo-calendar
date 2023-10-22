@@ -1,4 +1,3 @@
-
 module.exports = {
-  publicPath: "breadowo-calendar"
+  publicPath: "/breadowo-calendar/",
 }
