@@ -1,3 +1,4 @@
-module.exports = defineConfig({
-  publicPath:"breadowo-calendar"
-})
+
+module.exports = {
+  publicPath: "breadowo-calendar"
+}
